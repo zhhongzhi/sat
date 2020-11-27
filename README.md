@@ -22,6 +22,5 @@ The accompanying code for "[Table Fact Verification with Structure-Aware Transfo
        e.g: python sat_main.py --use_vm no # ablation on attention masking
        please refer to sat_main.py for more configuration details. 
 
-Please raise an issue if any questions. 
 
 
